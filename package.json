@@ -1,3 +1,7 @@
+"devDependencies": {
+    "ts-node": "^10.9.1"
+}
+
 {
   "main": "index.ts",
   "scripts": {
@@ -20,8 +24,4 @@
     "tsconfig-paths": "^4.0.0",
     "typescript": "^5.5.4"
   }
-}
-
-"devDependencies": {
-    "ts-node": "^10.9.1"
 }
